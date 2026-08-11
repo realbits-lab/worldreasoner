@@ -51,10 +51,10 @@ dependencies = [
 
 
 [project.urls]
-Homepage = "https://github.com/cyzus/worldreasoner"
-Documentation = "https://github.com/cyzus/worldreasoner/docs"
-Repository = "https://github.com/cyzus/worldreasoner"
-Issues = "https://github.com/cyzus/worldreasoner/issues"
+Homepage = "https://github.com/realbits-lab/worldreasoner"
+Documentation = "https://github.com/realbits-lab/worldreasoner/docs"
+Repository = "https://github.com/realbits-lab/worldreasoner"
+Issues = "https://github.com/realbits-lab/worldreasoner/issues"
 
 [project.scripts]
 worldreasoner = "src.api.server:main"
@@ -75,4 +75,3 @@ markers = [
 ]
 asyncio_mode = "auto"
 asyncio_default_fixture_loop_scope = "function"
-

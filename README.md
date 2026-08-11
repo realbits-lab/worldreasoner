@@ -59,7 +59,7 @@ To regenerate from source: `uv run python scripts/benchmark/export_public_db.py 
 **Requirements:** Python 3.13+, [`uv`](https://docs.astral.sh/uv/), Node.js 18+
 
 ```bash
-git clone https://github.com/cyzus/worldreasoner.git
+git clone https://github.com/realbits-lab/worldreasoner.git
 cd worldreasoner
 
 uv sync
