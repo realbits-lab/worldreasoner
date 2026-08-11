@@ -1,0 +1,267 @@
+{
+  "collection_date": "2026-08-09T02:40:42.155579+00:00",
+  "total_questions": 20,
+  "distributions": {
+    "by_type": {
+      "binary": 20
+    },
+    "by_domain": {
+      "politics": 16,
+      "finance": 4
+    },
+    "by_source": {
+      "polymarket": 20
+    },
+    "by_time_horizon": {
+      "medium": 19,
+      "long": 1
+    }
+  },
+  "quality": {
+    "with_ground_truth": 20,
+    "with_resolution_criteria": 20,
+    "avg_difficulty": 2.3
+  },
+  "questions": [
+    {
+      "id": "polymarket_0xb8e6d129a06d0ccb21d7b32eb529ea455eddba3cf29bfa097112202cbdf5bf21",
+      "text": "Strait of Hormuz traffic returns to normal by July 31?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 3,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-04T18:19:27+00:00",
+      "estimated_start_time": "2026-05-11T13:14:49.964000+00:00"
+    },
+    {
+      "id": "polymarket_0xe1e4a6fdac40b6d47735c374293446803e45e7f59695bdf4a958d9796dbe1a94",
+      "text": "GPU rental prices (B200) Up or Down in July?",
+      "type": "binary",
+      "domain": "finance",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 2,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T22:08:32+00:00",
+      "estimated_start_time": "2026-07-10T14:28:41.859865+00:00"
+    },
+    {
+      "id": "polymarket_0xcfa8fd6341f3489fabeb6c57aa9c14ab22571a31fb9b3198b0ba0463cefc8509",
+      "text": "Trump out as President by July 31?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 3,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T06:06:21+00:00",
+      "estimated_start_time": "2026-06-26T21:13:04.828371+00:00"
+    },
+    {
+      "id": "polymarket_0x2d214f81ec22788a26dc36d19c18692909a810f7cc89646cc91ec8b976ef3f07",
+      "text": "GPU rental prices (H100) Up or Down in July?",
+      "type": "binary",
+      "domain": "finance",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 2,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T22:08:44+00:00",
+      "estimated_start_time": "2026-07-10T14:26:57.582072+00:00"
+    },
+    {
+      "id": "polymarket_0x151b13b0d75a282ea864a2835963c0164c03e8fa3064c4d44026e3af5f2ff8d4",
+      "text": " Iran agrees to end enrichment of uranium by July 31?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 3,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T06:14:53+00:00",
+      "estimated_start_time": "2026-05-25T18:34:14.834000+00:00"
+    },
+    {
+      "id": "polymarket_0x4047e74d5e363956d5320ed065459ef9a283ea1874c4c5b09f731e3597379ffb",
+      "text": "GPU rental prices (H200) Up or Down in July?",
+      "type": "binary",
+      "domain": "finance",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 2,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T22:08:30+00:00",
+      "estimated_start_time": "2026-07-10T14:27:49.414297+00:00"
+    },
+    {
+      "id": "polymarket_0xfe6f1dad89e1ffad14c6429e2f50354d78bef4ea94b0444c9b8bb7ef24be7175",
+      "text": "Will Trump pardon SBF by July 31?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 3,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T06:03:05+00:00",
+      "estimated_start_time": "2026-06-09T00:57:26.759000+00:00"
+    },
+    {
+      "id": "polymarket_0x9498c75f7789671bb47e3ebd17a1db1542a6410711242225acfcb794d9c3d320",
+      "text": "SpaceX Closing Price Up/Down End of July?",
+      "type": "binary",
+      "domain": "finance",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 2,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-02T15:39:32+00:00",
+      "estimated_start_time": "2026-07-01T20:01:54.179476+00:00"
+    },
+    {
+      "id": "polymarket_0x90c9f679e2f272caf121b7f5ec4994525cbe5887531423110783308053a1fbd5",
+      "text": "2k+ container ship transits of Suez Canal in H1 2026?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "long",
+      "difficulty": 3,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T13:56:12+00:00",
+      "estimated_start_time": "2025-11-25T22:00:00.444254+00:00"
+    },
+    {
+      "id": "polymarket_0xd9f4ad023ca0e2631152e7c63054437509570fcbc669c2928e8986eb978b41e7",
+      "text": "Pete Hegseth out as Secretary of Defense by July 31?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 3,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T06:10:00+00:00",
+      "estimated_start_time": "2026-06-17T02:55:24.070645+00:00"
+    },
+    {
+      "id": "polymarket_0x6ed26c0fdc5a82bf0a70104a3bc2892692aa0ff2958ac1442e975353b59c4219",
+      "text": "Nothing Ever Happens: July",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 2,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T14:26:14+00:00",
+      "estimated_start_time": "2026-06-26T21:08:09.431850+00:00"
+    },
+    {
+      "id": "polymarket_0x5c9dd25dc61b8ac4977abf14ab3a419ccfe61bff2afca37d3654809a96378bab",
+      "text": "US x China tariff agreement by July 31?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 2,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T06:38:21+00:00",
+      "estimated_start_time": "2026-06-26T21:12:30.154654+00:00"
+    },
+    {
+      "id": "polymarket_0x8042f9bc5b551b136dc8f5911ba32101fddbb6f0abf307d4ff5827d020f70b5d",
+      "text": "Peru Presidential Election Invalidated?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 2,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T07:19:15+00:00",
+      "estimated_start_time": "2026-06-09T00:48:26.934000+00:00"
+    },
+    {
+      "id": "polymarket_0x05a622126d64bbfcb489e13e885d1f3b770db17bc8f62381e000e6a3197e46bd",
+      "text": "Mitch McConnell votes in the Senate by July 31?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 2,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T06:19:09+00:00",
+      "estimated_start_time": "2026-07-07T23:54:10.213946+00:00"
+    },
+    {
+      "id": "polymarket_0x6359518f11bb5fa90a29f34838eba0b019c218152da978ae6a4deedad9ec81fa",
+      "text": "Trump signs housing bill by end of July?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 2,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T07:03:30+00:00",
+      "estimated_start_time": "2026-06-24T22:23:53.475874+00:00"
+    },
+    {
+      "id": "polymarket_0x8aca7a9e928f1ce19903657274597ce4705ea7ac6b47e9f240f2677e45814da5",
+      "text": "Will a new country join the Abraham Accords by July 31?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 2,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T06:03:24+00:00",
+      "estimated_start_time": "2026-06-29T19:19:11.369995+00:00"
+    },
+    {
+      "id": "polymarket_0xad2262f40736d8d46715fd68cc42188c8bf3955a01d2efa92018da01a76a53fe",
+      "text": "Will Trump and Netanyahu hug on Tuesday?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 2,
+      "has_ground_truth": true,
+      "resolution_date": "2026-07-31T22:51:57+00:00",
+      "estimated_start_time": "2026-07-24T20:06:51.562595+00:00"
+    },
+    {
+      "id": "polymarket_0xa3772a2a54aebbfd94a8ecc2540bf8c381e22ab73a387ee845e088998e0f8596",
+      "text": "Will Trump praise Benjamin Netanyahu by July 31?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 2,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T00:25:56+00:00",
+      "estimated_start_time": "2026-07-24T22:52:33.939040+00:00"
+    },
+    {
+      "id": "polymarket_0xac13c41e8e5e60d53b46953b53576a8b033dfcca7797e435b53b64b027d5e6d0",
+      "text": "Will Netanyahu publicly insult Trump by July 31?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 2,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T06:31:23+00:00",
+      "estimated_start_time": "2026-07-24T23:38:59.077532+00:00"
+    },
+    {
+      "id": "polymarket_0x1b7ce3378b7b505abf313265e4386601717d766d3b6815329a4548cbc25cf057",
+      "text": "Will Netanyahu wear a Yarmulke at next meeting with Trump?",
+      "type": "binary",
+      "domain": "politics",
+      "source": "polymarket",
+      "time_horizon": "medium",
+      "difficulty": 2,
+      "has_ground_truth": true,
+      "resolution_date": "2026-08-01T07:20:24+00:00",
+      "estimated_start_time": "2026-07-24T19:55:45.689354+00:00"
+    }
+  ]
+}

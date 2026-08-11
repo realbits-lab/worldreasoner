@@ -1,0 +1,22 @@
+# Isolated August 2026 source snapshot for WorldReasoner hindsight construction.
+total_questions: 20
+
+type_distribution:
+  binary: 20
+
+category_distribution:
+  politics: 10
+  finance: 10
+
+quality:
+  min_difficulty: 1
+  max_difficulty: 5
+  min_resolution_days: -14
+  max_resolution_days: 0
+  require_resolution_criteria: true
+  min_confidence_score: 0.0
+
+require_ground_truth: true
+
+source_minimums:
+  polymarket: 20

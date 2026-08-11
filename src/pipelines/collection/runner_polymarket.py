@@ -277,6 +277,9 @@ class PolymarketRunner(QuestionSourceRunner):
                 category=market.get("category"),
                 options=outcomes,
                 metadata={
+                    # The condition id identifies the on-chain market. The Gamma id is
+                    # separately required to recover and validate the Yes-side CLOB token.
+                    "gamma_market_id": market.get("id"),
                     "market_slug": market.get("slug"),
                     "clob_token_ids": clob_ids,  # Store for price history fetching
                     "tags": market.get("tags", []),
